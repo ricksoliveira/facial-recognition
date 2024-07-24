@@ -32,9 +32,9 @@ The object of this is to catch curious people that try to sneak in your stuff.
 > - To install them, use the following commands:
 >
 >   ```
-> 		pip install face_recognition
-> 		pip install opencv-python
->     pip install discord.py
+> 	pip install face_recognition
+>   pip install opencv-python
+>   pip install discord.py
 >   ```
 >   
 > 3) Change the following on the code on lines 29, 30 and 59:
