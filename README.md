@@ -13,8 +13,8 @@ The object of this is to catch curious people that try to sneak in your stuff.
 > - **[PIP](https://pip.pypa.io/en/stable/installation/)**
 > - **[DLIB - Download Link](https://github.com/Murtaza-Saeed/dlib)**
 > - **[DLIB - Full instalation guide](https://www.youtube.com/watch?v=9zeb902f98s)**
-> - **A discord BOT Token** (Link guide here)
-> - **A discord channel ID** (Link to guide here)
+> - **A discord BOT Token**
+> - **A discord channel ID**
 > - **Internet Connection** (To connect to your discord app)
 > - **A webcam**
 
